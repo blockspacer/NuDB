@@ -1,9 +1,12 @@
 <img width="880" height = "80" alt = "NuDB"
     src="https://raw.githubusercontent.com/vinniefalco/NuDB/master/doc/images/readme2.png">
 
-[![Join the chat at https://gitter.im/vinniefalco/NuDB](https://badges.gitter.im/vinniefalco/NuDB.svg)](https://gitter.im/vinniefalco/NuDB?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/vinniefalco/NuDB.svg?branch=master)](https://travis-ci.org/vinniefalco/NuDB) [![codecov](https://codecov.io/gh/vinniefalco/NuDB/branch/master/graph/badge.svg)](https://codecov.io/gh/vinniefalco/NuDB) [![coveralls](https://coveralls.io/repos/github/vinniefalco/NuDB/badge.svg?branch=master)](https://coveralls.io/github/vinniefalco/NuDB?branch=master) [![Documentation](https://img.shields.io/badge/documentation-master-brightgreen.svg)](http://vinniefalco.github.io/nudb/) [![License](https://img.shields.io/badge/license-boost-brightgreen.svg)](LICENSE_1_0.txt)
-
 # A Key/Value Store For SSDs
+
+Branch      | Linux/OSX | Coverage | Documentation 
+------------|-----------|----------|---------------
+[master](https://github.com/CPPAlliance/NuDB/tree/master)   | [![Build Status](https://travis-ci.org/CPPAlliance/NuDB.svg?branch=master)](https://travis-ci.org/CPPAlliance/NuDB)  | [![codecov](https://img.shields.io/codecov/c/github/CPPAlliance/NuDB/master.svg)](https://codecov.io/gh/CPPAlliance/NuDB/branch/master)   [![coveralls](https://coveralls.io/repos/github/CPPAlliance/NuDB/badge.svg?branch=master)](https://coveralls.io/github/CPPAlliance/NuDB?branch=master)   | [![Documentation](https://img.shields.io/badge/documentation-master-brightgreen.svg)](http://vinniefalco.github.io/nudb/)
+[develop](https://github.com/CPPAlliance/NuDB/tree/develop) | [![Build Status](https://travis-ci.org/CPPAlliance/NuDB.svg?branch=develop)](https://travis-ci.org/CPPAlliance/NuDB) | [![codecov](https://img.shields.io/codecov/c/github/CPPAlliance/NuDB/develop.svg)](https://codecov.io/gh/CPPAlliance/NuDB/branch/develop) [![coveralls](https://coveralls.io/repos/github/CPPAlliance/NuDB/badge.svg?branch=develop)](https://coveralls.io/github/CPPAlliance/NuDB?branch=develop) | [![Documentation](https://img.shields.io/badge/documentation-develop-brightgreen.svg)](http://vinniefalco.github.io/nudb/)
 
 ---
 
